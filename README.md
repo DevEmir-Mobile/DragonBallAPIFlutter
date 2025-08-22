@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img width="400" height="600" alt="Captura de pantalla 2025-08-22 034410" src="https://github.com/user-attachments/assets/41ace872-9add-42c0-b3e6-085c3be51009" />
+<img width="400" height="600" alt="Captura de pantalla 2025-08-22 034410" src="https://github.com/user-attachments/assets/91b8b42b-7879-4edf-a8a9-64ebc14d2eb2" />
